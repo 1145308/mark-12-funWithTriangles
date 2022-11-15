@@ -17,7 +17,24 @@ h1{
     font-weight: bolder;
 }
 .navigation{
-    background-color: var(--primary-green)
+    background-color: var(--primary-green);
+    padding: 2rem 0;
+    border-bottom-left-radius: 1rem; 
+    
+    
+}
+/* .exp {
+    
+    float: left;
+    clear: none;
+    margin: 2px 0 0 2px;
+    
+    
+ } */
+
+.tag{
+    font-weight: bolder;
+    color:black;
 }
 .container{
     width: 60%;
@@ -51,6 +68,7 @@ button{
     font-size: 18px;
     background-color: var(--primary-green);
     color: black;
+    cursor: pointer;
 }
 
 #output{
@@ -67,14 +85,14 @@ p{
     font-size: 18px;
     }
 a{
-        text-decoration: none;
-        padding: 1rem;
-        color:  rgb(8, 7, 7);
+    text-decoration: none;
+    padding: 1rem;
+    color:  rgb(8, 7, 7);
     }
 
 
 .radio-label {
-            text-align: center;
+    text-align: center;
     margin-top: 3rem;
     font-size: 18px;
          }

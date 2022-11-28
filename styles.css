@@ -47,8 +47,21 @@ h1{
     margin-bottom: 0.6rem;
     font-size: 18px;
     font-weight: bold;
+    border-color: rgb(14, 235, 124);
 }
 
+.hlo{
+    display: inline-block;
+    margin-inline: 1rem ;
+    margin-left: 9rem;
+    border-left-color:  rgb(221, 162, 172);
+}
+
+.hlog{
+    display: inline-block;
+    margin-inline: 1rem ;
+    margin-left: 8rem;
+}
 
 #input{
     margin: auto;
@@ -74,7 +87,7 @@ button{
 #output{
     height: 10px;
     text-align: center;
-    margin: 3rem 0;
+    margin: 1.5rem 0;
     font-size: 22px;
     font-weight: bold;
 }
@@ -91,10 +104,6 @@ a{
     }
 
 
-.radio-label {
-    text-align: center;
-    margin-top: 3rem;
-    font-size: 18px;
-         }
+
 
          

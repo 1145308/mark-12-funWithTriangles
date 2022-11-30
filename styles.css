@@ -70,12 +70,15 @@ h1{
     text-align: initial;
 }
 
-.hlog{
-    display: inline-block;
+.blog{
+    /* display: inline-block;
     margin-inline-end: auto;
     margin-left: 7rem;
-    text-align: center;
+    text-align: center; */
     /* margin: auto; */
+
+    display: inline;
+    justify-content: space-around;
 }
 
 #input{

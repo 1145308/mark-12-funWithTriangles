@@ -109,18 +109,15 @@ button{
 }
 
 p{
-    /* text-align: center; */
+    
     margin-top: 3rem;
     font-size: 18px;
     }
 
 
 .container .list {
-   
-/* padding: 0 0 0; */
-
-text-align: center;
-
+       text-align: center;
+       gap: 2rem;
 }
 
 

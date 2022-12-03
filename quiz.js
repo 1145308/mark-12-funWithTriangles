@@ -25,6 +25,6 @@ function calculateScore(){
         index=index+1;
     }
 // console.log(score);
-outputBox.innerText="The value is : " + score;
+outputBox.innerText="The score is : " + score;
 }
 submitBtn.addEventListener("click" , calculateScore)
